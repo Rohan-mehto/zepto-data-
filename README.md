@@ -99,6 +99,7 @@ CREATE TABLE zepto (
   
 ### 5. 📊 Business Insights
 - Found top 10 best-value products based on discount percentage
+- 
 
 - Identified high-MRP products that are currently out of stock
 
